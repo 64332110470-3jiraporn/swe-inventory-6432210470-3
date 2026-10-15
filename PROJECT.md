@@ -3,8 +3,8 @@
 > **โครงงานรายวิชา Software Engineering / Agile & CI/CD**  
 > **รหัสนักศึกษา:** 6432210470-3 (นางสาวจิราภรณ์)  
 > **อีเมล:** jiraporn.rs@rmuti.ac.th  
-> **GitHub Repository:** [https://github.com/thanapatle-rmuti/swe-inventory-6432210470-3](https://github.com/thanapatle-rmuti/swe-inventory-6432210470-3) (Public)  
-> **CI Actions URL:** [https://github.com/thanapatle-rmuti/swe-inventory-6432210470-3/actions](https://github.com/thanapatle-rmuti/swe-inventory-6432210470-3/actions)
+> **GitHub Repository:** [https://github.com/64332110470-3jiraporn/swe-inventory-6432210470-3](https://github.com/64332110470-3jiraporn/swe-inventory-6432210470-3) (Public)  
+> **CI Actions URL:** [https://github.com/64332110470-3jiraporn/swe-inventory-6432210470-3/actions](https://github.com/64332110470-3jiraporn/swe-inventory-6432210470-3/actions)
 
 ---
 

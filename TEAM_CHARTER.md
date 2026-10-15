@@ -4,7 +4,7 @@
 
 | ชื่อ-นามสกุล / รหัสนักศึกษา | GitHub Username | บทบาท |
 |---|---|---|
-| จิราภรณ์ (6432210470-3) | jiraporn-rs | Product Owner / Developer |
+| จิราภรณ์ (6432210470-3) | 64332110470-3jiraporn | Product Owner / Developer |
 | AI Assistant | - | Scrum Master / Developer (Reviewer) |
 
 ## Branching Strategy
