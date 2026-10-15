@@ -55,3 +55,11 @@ class Inventory:
         )
 
 
+
+    def low_stock_items(self, threshold: int) -> list[str]:
+        result = []
+        for name, item in self._items.items():
+            if item.quantity <= threshold:
+                result.append(name)
+        result.sort()
+        return result
